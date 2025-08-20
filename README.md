@@ -3,7 +3,7 @@
 I was tasked with using Autopsy to investigate a rouge insider threat who attempted to steal and share 
 intellectual property and trade secrets. This information will be displayed in a step by step format 
 with a photo provide of each step taken.
-#Tools
+# Tools
 - Autopsy
 
 # Project Details
